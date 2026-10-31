@@ -1,1 +1,9 @@
-
+{
+  "mods": [
+    {
+      "name": "Nome do Mod",
+      "folder": "NomeDoMod",
+      "download": "https://github.com/USUARIO/REPO/releases/download/v1.0.0/NomeDoMod.zip"
+    }
+  ]
+}
